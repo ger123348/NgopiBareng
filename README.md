@@ -1,3 +1,3 @@
 # NgopiBareng
 
-semua isi folder web nya ada di brancgh master bukan main
+semua isi folder web nya ada di branch master bukan main
